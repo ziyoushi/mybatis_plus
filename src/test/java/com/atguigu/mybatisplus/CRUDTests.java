@@ -138,6 +138,12 @@ public class CRUDTests {
         System.out.println(users);
     }
 
+    //测试合并
+    @Test
+    public void testMerge(){
+
+    }
+
 
 
 }
